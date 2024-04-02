@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthathalye17&show_icons=true&locale=en" alt="parthathalye17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthathalye17&" alt="parthathalye17" /></p>
+![](https://leetcard.jacoblin.cool/parthathalye1703?ext=heatmap)
