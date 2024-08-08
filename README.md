@@ -23,6 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthathalye17&show_icons=true&locale=en" alt="parthathalye17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthathalye17&" alt="parthathalye17" />
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/parthathalye1703?hide=ranking&theme=dark&border=2&radius=20&font=Poppins)](https://www.leetcode.com/parthathalye1703/) </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthathalye17&" alt="parthathalye17" /> </p>
