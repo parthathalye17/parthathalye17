@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Athalye</h1>
-<h3 align="center">Aspiring AI developer on a mission to turn lines of code into digital symphonies.🎶💻</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🌱 I’m currently learning : Deep Learning, Generative AI
 
