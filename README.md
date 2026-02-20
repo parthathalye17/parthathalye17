@@ -1,4 +1,4 @@
-# Hi, I'm Parth Athalye
+# Hi, I'm Parth Athalye !
 
 ![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m an **AI Engineer and Full Stack Developer** passionate about building intelligent, secure, and scalable systems.  
 I specialize in **LLMs, semantic search, backend systems, and ML-driven applications**.
@@ -63,7 +63,7 @@ React-Native | FastAPI | LangChain | Gemini | TensorFlow | ChromaDB
 - OCR for financial documents  
 - QR-based payments  
 - Multilingual support  
-- RAG chatbot trained on IT Act 2001  
+- RAG chatbot trained on IT Act 2001 
 - Top 20 out of 1900+ teams at KLEOS 2.0  
 
 ---
