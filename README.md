@@ -1,6 +1,6 @@
 # Hi, I'm Parth Athalye
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=👋%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff)
 
 <p align="center">
   <a href="https://linkedin.com/in/parth1703"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
