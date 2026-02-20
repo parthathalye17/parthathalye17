@@ -120,5 +120,4 @@ React-Native | FastAPI | Gemini Vision-Pro | Supabase
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthathalye17&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthathalye17&theme=tokyonight" />
 </p>
