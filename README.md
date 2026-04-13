@@ -1,5 +1,3 @@
-# Hi, I'm Parth Athalye !
-
 <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff" width="100%" />
 
 <p align="center">
@@ -24,7 +22,7 @@ I specialize in **LLMs, semantic search, backend systems, and ML-driven applicat
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💼%20Experience&fontSize=24&fontColor=fff)
 
-## 🔹 MVAI (Machine Vision AI) — Software Developer Engineer Intern
+## 🔹 MVAI (Machine Vision AI) — Computer Vision Engineer Intern
 **2025 – Present**
 
 - Replaced a fully manual SharePoint + spreadsheet workflow across **3 waste management facilities**, eliminating ~**4 hours/day** of operator data entry and reducing classification errors by an estimated **60%**.
@@ -55,6 +53,16 @@ I specialize in **LLMs, semantic search, backend systems, and ML-driven applicat
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🏆%20Top%20Projects&fontSize=24&fontColor=fff)
 
+### 🔹 TeachMap — AI-Powered Curriculum Personalization Platform  
+Next.js 14 | FastAPI | Supabase | Groq | CurricuLLM | Mapbox | Serper  
+🏛️ *Built for the Cambridge University × Microsoft Hackathon*
+
+- Engineered a **live university discovery pipeline** — Mapbox geocoding → Serper Google Search → httpx scrape → Groq extraction — allowing professors to pull curriculum structure from any university worldwide in real time, with zero static database.
+- Built a **feedback-driven lecture loop** where student quiz scores and ratings automatically adjust the next lecture's content via CurricuLLM, closing the gap between delivery and comprehension.
+- Designed an **AI forum** with background auto-replies on student questions, upvoting, professor escalation, and anonymous shareable student links — no login required for students.
+
+---
+
 ### 🔹 Legion: Lead Generation Platform  
 LangGraph | Gemini | FastAPI | Next.js | OpenAI Agents SDK  
 
@@ -63,20 +71,9 @@ LangGraph | Gemini | FastAPI | Next.js | OpenAI Agents SDK
 
 ---
 
-### 🔹 RupeeGenie  
-React-Native | FastAPI | LangChain | Gemini | TensorFlow | ChromaDB  
-
-- Fraud detection (XGBoost + anomaly detection, F1 = 0.96)  
-- OCR for financial documents  
-- QR-based payments  
-- Multilingual support  
-- RAG chatbot trained on IT Act 2001 
-- Top 20 out of 1900+ teams at KLEOS 2.0  
-
----
-
 ### 🔹 Hisaab-Book  
 React-Native | FastAPI | Gemini Vision-Pro | Supabase  
+🏛️ *Built for the Bhashini.ai (Government of India) Hackathon*
 
 - Inventory system for local shopkeepers  
 - Image detection + voice commands  
