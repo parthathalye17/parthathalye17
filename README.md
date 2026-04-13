@@ -11,14 +11,11 @@
 ---
 
 ## About Me
-
-I'm an **AI Engineer and Full Stack Developer** passionate about building intelligent, secure, and scalable systems.  
-I specialize in **LLMs, semantic search, backend systems, and ML-driven applications**.
+I'm an AI Engineer and Full Stack Developer who builds intelligent systems that ship to production from LLM pipelines and semantic search to scalable backends and computer vision.
 
 - 🎓 **Masters in Information Technology (Artificial Intelligence)** — University of New South Wales (2026 – Present)  
 - 🎓 **B.Tech Electronics & Communication (AI)** — RAIT (CGPA: 8.92)  
 - 📍 Based in Sydney / Mumbai  
-- ⚡ I enjoy building hackathon-scale products that scale to production systems.
 
 ---
 
