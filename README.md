@@ -1,3 +1,5 @@
+# Hi, I'm Parth Athalye !
+
 <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff" width="100%" />
 
 <p align="center">
@@ -73,7 +75,7 @@ LangGraph | Gemini | FastAPI | Next.js | OpenAI Agents SDK
 
 ### 🔹 Hisaab-Book  
 React-Native | FastAPI | Gemini Vision-Pro | Supabase  
-🏛️ *Built for the Bhashini.ai (Government of India) Hackathon*
+🏛️ *Built for the Bhashini.ai × Government of India Hackathon*
 
 - Inventory system for local shopkeepers  
 - Image detection + voice commands  
@@ -113,9 +115,7 @@ React-Native | FastAPI | Gemini Vision-Pro | Supabase
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🎖️%20Achievements&fontSize=24&fontColor=fff)
 
-- 🏆 Finalist — Technovanza 24hr National Hackathon (VJTI)  
-- 🏆 Finalist — KLEOS 2.0 (Top 20/1900+)  
-- 🏆 Finalist — Bhashini Sprint (Govt. of India & ONDC)  
+- 🏆 **Hackathon** **Finalist** — Cambridge EduX × Microsoft Hackathon · Lovable × UNSW AISoc · Bhashini Sprint (Govt. of India & ONDC) · Technovanza 24hr National Hackathon (VJTI) · KLEOS 2.0 (Top 20 / 1900+ teams) 
 - 🥇 1st Place — IETE Winter Training Program  
 - 🎓 E-Diploma in Business Analytics — Harvard Business School  
 
