@@ -1,6 +1,6 @@
 # Hi, I'm Parth Athalye !
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff)
+<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=%20Parth%20Athalye&fontSize=42&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&fontColor=fff" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/parth1703"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I’m an **AI Engineer and Full Stack Developer** passionate about building intelligent, secure, and scalable systems.  
+I'm an **AI Engineer and Full Stack Developer** passionate about building intelligent, secure, and scalable systems.  
 I specialize in **LLMs, semantic search, backend systems, and ML-driven applications**.
 
 - 🎓 **Masters in Information Technology (Artificial Intelligence)** — University of New South Wales (2026 – Present)  
@@ -23,6 +23,16 @@ I specialize in **LLMs, semantic search, backend systems, and ML-driven applicat
 ---
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💼%20Experience&fontSize=24&fontColor=fff)
+
+## 🔹 MVAI (Machine Vision AI) — Software Developer Engineer Intern
+**2025 – Present**
+
+- Replaced a fully manual SharePoint + spreadsheet workflow across **3 waste management facilities**, eliminating ~**4 hours/day** of operator data entry and reducing classification errors by an estimated **60%**.
+- Engineered a **Next.js 14 + FastAPI + PostgreSQL (AWS RDS)** platform serving 3 distinct user roles (offshore operators, Irish factory team, facility clients), with JWT-based auth and per-role route isolation.
+- Integrated **Microsoft Graph API** to proxy 3 image types per truck event (LPR, tip, load) directly from SharePoint into a structured review UI, removing manual screenshot-and-link steps entirely.
+- Automated revenue calculation across **100+ daily truck events**, replacing manual spreadsheet formulas with a verified-record pipeline that computes net revenue per waste type and client in real time.
+
+---
 
 ## 🔹 Deloitte — Machine Learning Engineer Intern  
 **Jan – Jun 2025**
@@ -45,14 +55,11 @@ I specialize in **LLMs, semantic search, backend systems, and ML-driven applicat
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🏆%20Top%20Projects&fontSize=24&fontColor=fff)
 
-### 🔹 FinVerse  
-React-Native | FastAPI | Supabase  
+### 🔹 Legion: Lead Generation Platform  
+LangGraph | Gemini | FastAPI | Next.js | OpenAI Agents SDK  
 
-A fintech networking platform built in 24 hours featuring:
-- Social feed  
-- Real-time messaging  
-- AI-powered recommendations  
-- Funding hub connecting startups & investors  
+- Architected a **multi-agent B2B lead generation system** on LangGraph StateGraph with a 6-node agentic pipeline — typed Pydantic state, conditional routing, and tool-integrated nodes for live web and LinkedIn search.
+- Automated the full outreach lifecycle — cold email dispatch, follow-up sequencing, and response state tracking — compressing a multi-hour manual sales workflow into **under 3 minutes** across 10+ scored leads per run.
 
 ---
 
@@ -85,18 +92,19 @@ React-Native | FastAPI | Gemini Vision-Pro | Supabase
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-4B0082?style=for-the-badge" />
